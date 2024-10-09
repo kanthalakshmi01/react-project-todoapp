@@ -1,7 +1,7 @@
 {
   "name": "todoapp",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "homepage": "http://kanthalakshmi01.github.io/react-project-todoapp",
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
